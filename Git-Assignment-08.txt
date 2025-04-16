@@ -1,0 +1,60 @@
+1. Where is the global .gitconfig file typically located?
+A. /etc/gitconfig
+B. ~/.gitconfig
+C. .git/config
+D. /usr/local/git/config
+----------------------------
+2. Which section in .gitconfig sets your Git username and email?
+A. [core]
+B. [remote]
+C. [alias]
+D. [user]
+----------------------------
+3. What command sets the global Git user email?
+A. git config user.email "you@example.com"
+B. git set --email global you@example.com
+C. git config --global user.email "you@example.com"
+D. git global config email "you@example.com"
+----------------------------
+4. What is the purpose of core.autocrlf?
+A. To enable Git auto-complete
+B. To configure Git aliases
+C. To control line ending conversion
+D. To cache Git credentials
+----------------------------
+5. Which Git config level has the highest precedence (overrides others)?
+A. System
+B. Global
+C. Local
+D. Network
+----------------------------
+6. Which section in .gitconfig is used to define shortcuts for commands?
+A. [core]
+B. [alias]
+C. [user]
+D. [branch]
+----------------------------
+7. What will git config --list display?
+A. Git documentation
+B. Only user information
+C. All active Git configurations
+D. List of all Git repositories
+----------------------------
+8. Which of the following commands will open the global Git config in an editor?
+A. git config -e
+B. git config --global -e
+C. git edit global
+D. git config --edit-global
+----------------------------
+9. How do you store Git credentials temporarily in memory?
+A. git config credential.helper store
+B. git config --global credential.helper cache
+C. git cache --credentials
+D. git remember --credentials
+----------------------------
+10. Which config file affects only the current Git repository?
+A. ~/.gitconfig
+B. /etc/gitconfig
+C. .git/config
+D. ~/.config/git/config
+----------------------------
