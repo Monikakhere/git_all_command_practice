@@ -3,7 +3,6 @@ A. /etc/gitconfig
 B. ~/.gitconfig
 C. .git/config
 D. /usr/local/git/config
-D. /usr/local/git/config
 ----------------------------
 2. Which section in .gitconfig sets your Git username and email?
 A. [core]
